@@ -1,4 +1,4 @@
-//A ball that just bounces
+//Bouncing ball game
 
 #include <opencv2/core.hpp>
 #include <opencv2/imgproc.hpp>
