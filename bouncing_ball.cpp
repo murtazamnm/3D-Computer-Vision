@@ -1,4 +1,4 @@
-//Bouncing ball game
+//Bouncing ball game in c++ and openCv
 
 #include <opencv2/core.hpp>
 #include <opencv2/imgproc.hpp>
